@@ -29,7 +29,6 @@ function check(){
         correct();
         nextQuest();
     } else {
-        console.log(result, random)
         incorrect();
     }
 }
